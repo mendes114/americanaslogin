@@ -1,0 +1,16 @@
+.header1 {
+    height: 170px;
+    background-color: red;
+}
+
+.brand {
+    height: 120px;
+
+}
+
+.plogin p { color: gray;}
+
+.btn-red { 
+    color: #fff !important;
+    background-color: red !important; 
+}

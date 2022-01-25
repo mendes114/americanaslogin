@@ -1,5 +1,5 @@
 .header1 {
-    height: 170px;
+    height: 120px;
     background-color: red;
 }
 
@@ -13,4 +13,10 @@
 .btn-red { 
     color: #fff !important;
     background-color: red !important; 
+    justify-content: ;
+}
+
+h1 {
+   font-size: 2.2rem !important;
+   color: rgb(82, 82, 82);
 }
